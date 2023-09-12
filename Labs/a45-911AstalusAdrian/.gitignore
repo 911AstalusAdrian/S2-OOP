@@ -1,0 +1,86 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.xml
+*.iml
+.idea/.name
+cmake-build-debug/a45_911AstalusAdrian.cbp
+cmake-build-debug/cmake_install.cmake
+cmake-build-debug/CMakeCache.txt
+cmake-build-debug/CMakeFiles/3.17.5/CMakeCCompiler.cmake
+cmake-build-debug/CMakeFiles/3.17.5/CMakeCXXCompiler.cmake
+cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin
+cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin
+cmake-build-debug/CMakeFiles/3.17.5/CMakeRCCompiler.cmake
+cmake-build-debug/CMakeFiles/3.17.5/CMakeSystem.cmake
+cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.c
+cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/CMakeCXXCompilerId.cpp
+cmake-build-debug/CMakeFiles/a45_911AstalusAdrian.dir/build.make
+cmake-build-debug/CMakeFiles/a45_911AstalusAdrian.dir/cmake_clean.cmake
+*.make
+*.cmake
+*.rsp
+cmake-build-debug/CMakeFiles/clion-environment.txt
+cmake-build-debug/CMakeFiles/clion-log.txt
+*.check_cache
+*.log
+cmake-build-debug/CMakeFiles/Makefile2
+cmake-build-debug/CMakeFiles/progress.marks
+cmake-build-debug/CMakeFiles/TargetDirectories.txt
+cmake-build-debug/Makefile
+*.ilk
+*.pdb
+*.includecache
+*.internal
+*.manifest
+*.rc
+*.res
+*.cbp
+cmake-build-debug-coverage/CMakeCache.txt
+*.bin
+cmake-build-debug-coverage/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.c
+*.gcno
+cmake-build-debug-coverage/CMakeFiles/3.17.5/CompilerIdCXX/CMakeCXXCompilerId.cpp
+*.gcda
+cmake-build-debug-coverage/CMakeFiles/a45_911AstalusAdrian.dir/link.txt
+cmake-build-debug-coverage/CMakeFiles/clion-environment.txt
+cmake-build-debug-coverage/CMakeFiles/clion-log.txt
+cmake-build-debug-coverage/CMakeFiles/Makefile2
+*.marks
+cmake-build-debug-coverage/CMakeFiles/TargetDirectories.txt
+*.gcov
+cmake-build-debug-coverage/Makefile
+cmake-build-debug/CMakeFiles/a45_911AstalusAdrian.dir/link.txt
+cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+cmake-build-debug-coverage/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+cmake-build-debug-coverage/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c
+cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c

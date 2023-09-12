@@ -1,0 +1,61 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+.idea/workspace.xml
+.idea/.name
+*.xml
+*.iml
+cmake-build-debug/cmake_install.cmake
+cmake-build-debug/CMakeCache.txt
+*.cmake
+*.bin
+cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c
+cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+cmake-build-debug/CMakeFiles/clion-environment.txt
+cmake-build-debug/CMakeFiles/clion-log.txt
+*.check_cache
+*.log
+cmake-build-debug/CMakeFiles/Makefile2
+*.marks
+*.make
+*.rsp
+cmake-build-debug/CMakeFiles/t2_911AstalusAdrian_1.dir/link.txt
+cmake-build-debug/CMakeFiles/TargetDirectories.txt
+cmake-build-debug/Makefile
+cmake-build-debug/t2_911AstalusAdrian_1.cbp
+*.internal
+cmake-build-debug/CMakeFiles/Progress/4
+cmake-build-debug/CMakeFiles/Progress/3
+cmake-build-debug/CMakeFiles/Progress/5
+cmake-build-debug/CMakeFiles/Progress/6
+cmake-build-debug/CMakeFiles/Progress/count.txt
+cmake-build-debug/CMakeFiles/t2_911AstalusAdrian_1.dir/CXX.includecache

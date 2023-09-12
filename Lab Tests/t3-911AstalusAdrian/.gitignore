@@ -1,0 +1,63 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+.idea/.name
+*.xml
+*.iml
+cmake-build-debug/cmake_install.cmake
+cmake-build-debug/CMakeCache.txt
+cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake
+cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake
+*.bin
+*.cmake
+cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c
+cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+cmake-build-debug/CMakeFiles/clion-environment.txt
+cmake-build-debug/CMakeFiles/clion-log.txt
+*.check_cache
+*.log
+cmake-build-debug/CMakeFiles/CMakeRuleHashes.txt
+cmake-build-debug/CMakeFiles/Makefile2
+*.marks
+*.make
+*.includecache
+*.internal
+*.rsp
+cmake-build-debug/CMakeFiles/t3_911AstalusAdrian.dir/link.txt
+*.json
+cmake-build-debug/CMakeFiles/t3_911AstalusAdrian_autogen.dir/AutogenUsed.txt
+cmake-build-debug/CMakeFiles/t3_911AstalusAdrian_autogen.dir/ParseCache.txt
+cmake-build-debug/CMakeFiles/TargetDirectories.txt
+cmake-build-debug/Makefile
+cmake-build-debug/t3_911AstalusAdrian.cbp
+cmake-build-debug/t3_911AstalusAdrian_autogen/moc_predefs.h
+cmake-build-debug/t3_911AstalusAdrian_autogen/mocs_compilation.cpp

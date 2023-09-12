@@ -1,0 +1,5 @@
+a open Alex -
+b closed John Joe
+c closed John Mike
+d open John -
+e open Alex -
